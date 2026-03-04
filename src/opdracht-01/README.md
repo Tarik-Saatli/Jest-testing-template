@@ -21,8 +21,8 @@ Je gaat tests schrijven voor todo validatie functies. Er staat al **1 voorbeeld 
 
 ## Cheat Sheet
 Bekijk deze pagina's:
-- [Eerste Test Schrijven](https://jschaik.github.io/React-Cheat-Sheet/pages/jest/eerste-test.html)
-- [Matchers](https://jschaik.github.io/React-Cheat-Sheet/pages/jest/matchers.html)
+- [Eerste Test Schrijven](https://jschaik.github.io/Fullstack-Cheat-Sheet/pages/jest/eerste-test.html)
+- [Matchers](https://jschaik.github.io/Fullstack-Cheat-Sheet/pages/jest/matchers.html)
 
 ## Hoe te starten?
 1. Open `src/opdracht-01/todoUtils.test.js`

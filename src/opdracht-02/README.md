@@ -23,7 +23,7 @@ Je gaat tests schrijven voor wachtwoord validatie. De functie geeft een **object
 
 ## Cheat Sheet
 Bekijk deze pagina:
-- [Matchers](https://jschaik.github.io/React-Cheat-Sheet/pages/jest/matchers.html)
+- [Matchers](https://jschaik.github.io/Fullstack-Cheat-Sheet/pages/jest/matchers.html)
 
 ## Hoe te starten?
 1. Open `src/opdracht-02/passwordValidator.test.js`

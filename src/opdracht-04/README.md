@@ -26,7 +26,7 @@ Je gaat tests schrijven voor form validatie functies. Deze keer gebruik je `befo
 
 ## Cheat Sheet
 Bekijk deze pagina:
-- [Setup en Teardown](https://jschaik.github.io/React-Cheat-Sheet/pages/jest/setup.html)
+- [Setup en Teardown](https://jschaik.github.io/Fullstack-Cheat-Sheet/pages/jest/setup.html)
 
 ## Hoe te starten?
 1. Open `src/opdracht-04/formValidator.test.js`

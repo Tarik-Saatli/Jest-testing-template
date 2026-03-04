@@ -27,7 +27,7 @@ import { render, screen, fireEvent } from '@testing-library/react';
 
 ## Cheat Sheet
 Bekijk deze pagina:
-- [Component Testen](https://jschaik.github.io/React-Cheat-Sheet/pages/jest/component-testen.html)
+- [Component Testen](https://jschaik.github.io/Fullstack-Cheat-Sheet/pages/jest/component-testen.html)
 
 ## Hoe te starten?
 1. Open `src/opdracht-07/LikeButton.test.jsx`

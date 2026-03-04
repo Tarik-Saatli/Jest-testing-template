@@ -25,7 +25,7 @@ Er staat al een `products` array klaar met test data. Gebruik deze in al je test
 
 ## Cheat Sheet
 Bekijk deze pagina:
-- [Matchers](https://jschaik.github.io/React-Cheat-Sheet/pages/jest/matchers.html)
+- [Matchers](https://jschaik.github.io/Fullstack-Cheat-Sheet/pages/jest/matchers.html)
 
 ## Hoe te starten?
 1. Open `src/opdracht-03/productUtils.test.js`
