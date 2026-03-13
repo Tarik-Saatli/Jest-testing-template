@@ -10,6 +10,7 @@ export function addScores(score1, score2) {
   return score1 + score2;
 }
 
+
 // Checkt of een speler gewonnen heeft (score >= 100)
 export function hasWon(score) {
   return score >= 100;
